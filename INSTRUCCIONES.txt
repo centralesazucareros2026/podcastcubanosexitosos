@@ -1,0 +1,9 @@
+1. Subir a la raiz del repositorio los 11 HTML, site.json, site.js y admin.html. NO subir worker.js ni este archivo si se desea mantenerlo separado.
+2. Cloudflare Worker jolly-pine-00c3 -> Edit code -> reemplazar Hello World por worker.js -> Deploy.
+3. Settings -> Variables and Secrets: GITHUB_TOKEN y ADMIN_SECRET como Secret (ya configurados).
+4. Abrir https://podcast.cubanosexitosos.com/admin.html. Introducir URL completa del Worker y ADMIN_SECRET, pulsar Cargar contenido, editar y Publicar cambios.
+5. Esperar a que GitHub Pages publique la actualizacion de site.json.
+6. El administrador HTML es visible publicamente, pero publicar requiere secreto y el Worker esta protegido por Cloudflare Access. No guardar secretos en HTML ni compartirlos.
+7. ATENCION: Cloudflare Access puede bloquear las peticiones cross-origin del administrador, incluida la solicitud POST o su respuesta. Si ocurre, hay que ajustar la politica Access/CORS o usar un proxy mismo origen; no desactivar la proteccion de Access sin sustituirla por autenticacion robusta.
+8. La API solo modifica site.json; las paginas estaticas cargan el contenido de ese archivo. Las paginas Sobre y Ver y escuchar permanecen sin edicion desde el panel.
+9. ADMIN_SECRET es un segundo control, no sustituye a Cloudflare Access.

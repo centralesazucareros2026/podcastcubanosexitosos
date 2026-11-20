@@ -1,0 +1,266 @@
+{
+  "index.html": {
+    "title": "Historias que merecen ser escuchadas",
+    "subtitle": "Descubre conversaciones, experiencias y voces que inspiran.",
+    "cards": [
+      {
+        "title": "Episodio destacado",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Últimos episodios",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Suscríbete para recibir novedades",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "02-about.html": {
+    "title": "La historia detrás del micrófono",
+    "subtitle": "Conoce la misión, los presentadores y el propósito de este podcast.",
+    "cards": [
+      {
+        "title": "Nuestra misión",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Conoce al equipo",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Nuestra trayectoria",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "03-episodes.html": {
+    "title": "Todos los episodios",
+    "subtitle": "Explora entrevistas y conversaciones por tema o fecha.",
+    "cards": [
+      {
+        "title": "Último episodio",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Archivo de episodios",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Categorías",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "04-episode-pages.html": {
+    "title": "Cada episodio tiene su historia",
+    "subtitle": "Una plantilla para duplicar por cada entrevista publicada.",
+    "cards": [
+      {
+        "title": "Título del episodio",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Reproductor de video o audio",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Notas y transcripción",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "05-guests.html": {
+    "title": "Las voces de nuestro podcast",
+    "subtitle": "Conoce a quienes comparten sus historias con nuestra audiencia.",
+    "cards": [
+      {
+        "title": "Invitado destacado",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Directorio de invitados",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Participa como invitado",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "06-watch-listen.html": {
+    "title": "Escúchanos donde prefieras",
+    "subtitle": "Accede a nuestras plataformas de video y audio.",
+    "cards": [
+      {
+        "title": "YouTube",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Spotify y Apple Podcasts",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Comparte el podcast",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "07-blog.html": {
+    "title": "Historias más allá del episodio",
+    "subtitle": "Artículos, reflexiones y recursos que amplían las conversaciones.",
+    "cards": [
+      {
+        "title": "Artículo destacado",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Publicaciones recientes",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Explorar temas",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "08-newsletter.html": {
+    "title": "No te pierdas ninguna historia",
+    "subtitle": "Recibe nuevos episodios, entrevistas y contenido exclusivo.",
+    "cards": [
+      {
+        "title": "Suscríbete",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Qué recibirás",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Últimas novedades",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "09-sponsors.html": {
+    "title": "Colabora con nuestro podcast",
+    "subtitle": "Conecta tu marca con una audiencia interesada en historias auténticas.",
+    "cards": [
+      {
+        "title": "Oportunidades de patrocinio",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Formatos disponibles",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Solicita información",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "10-books-merchandise.html": {
+    "title": "Historias para leer y compartir",
+    "subtitle": "Explora libros, publicaciones y productos relacionados con el podcast.",
+    "cards": [
+      {
+        "title": "Libros destacados",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Colecciones",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Explorar catálogo",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  },
+  "11-contact.html": {
+    "title": "Hablemos",
+    "subtitle": "Envíanos tus preguntas, propuestas de entrevistas o colaboraciones.",
+    "cards": [
+      {
+        "title": "Contacto general",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Propón un invitado",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      },
+      {
+        "title": "Colaboraciones",
+        "text": "Añade aquí textos, imágenes, videos, enlaces o formularios desde el editor visual de Google Sites.",
+        "url": "",
+        "linkText": "Ver más"
+      }
+    ]
+  }
+}
